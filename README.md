@@ -1,4 +1,4 @@
 # insurance-cost-prediction
 
-Dashboard View Shared, click these link if you intrest
+Dashboard View Shared
 https://insurance-cost-prediction-fjlupyy44sewmrycftkkoo.streamlit.app/
